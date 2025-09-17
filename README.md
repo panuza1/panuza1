@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panuza1&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panuza1&layout=compact)
 <!--
 **panuza1/panuza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
