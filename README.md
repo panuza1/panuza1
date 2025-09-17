@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panuza1&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panuza1&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=panuza1)](https://github.com/panuza1/github-readme-stats)
 <!--
 **panuza1/panuza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
