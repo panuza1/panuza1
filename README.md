@@ -8,5 +8,5 @@
 
 ## Statistics
 
-![Panupong's GitHub stats](https://github-readme-stats.vercel.app/api?username=panuza1\&show_icons=true\&count_private=true\&theme=dark)
+![Panuza1's GitHub stats](https://github-readme-stats.vercel.app/api?Panuza1=anuraghazra&show_icons=true&theme=radical) 
 
