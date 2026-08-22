@@ -4,7 +4,8 @@
 
 * I am interested in **AI, Machine Learning, Computer Vision, Software Development, Data Science, and Robotics**.
 * I enjoy experimenting with AI technologies and building software-based intelligent systems.
-* Currently learning and exploring new technologies in **AI, software, and data**.
+* Currently studying at the School of Information Technology (SIT), King Mongkut’s University of Technology Thonburi (KMUTT).
+* learning and exploring new technologies in **AI, software, and data**.
 
 ## 📊 Statistics
 
