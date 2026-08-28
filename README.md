@@ -17,20 +17,3 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=panuza1&layout=compact&langs_count=8&theme=transparent" />
 </p>
 
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/panuza1/xr_teleoperate">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=panuza1&repo=xr_teleoperate&theme=transparent" />
-</a>
-
-<a href="https://github.com/panuza1/unitree_rl_lab">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=panuza1&repo=unitree_rl_lab&theme=transparent" />
-</a>
-
-<a href="https://github.com/panuza1/DataScienceWithPython">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=panuza1&repo=DataScienceWithPython&theme=transparent" />
-</a>
-
-</p>
